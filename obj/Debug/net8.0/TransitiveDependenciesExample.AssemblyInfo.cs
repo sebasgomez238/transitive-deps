@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransitiveDependenciesExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8427dd75c52da5bfd2461dd384cd342c7ebe87dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransitiveDependenciesExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransitiveDependenciesExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
